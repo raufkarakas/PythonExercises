@@ -1,2 +1,2 @@
-# nameGenerator
-Python Programming Project #1
+# PythonExercises
+My solutions of the Python Programming Exercises for noobs will be here soon.
