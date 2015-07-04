@@ -1,2 +1,2 @@
 # nameGenerator
-Programming Project #1
+Python Programming Project #1
