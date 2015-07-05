@@ -18,5 +18,4 @@ def higherLower():
 
     print("You found it after %i try! Yaayyy!" %(predictNumber))
 
-
 higherLower()
