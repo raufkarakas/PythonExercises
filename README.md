@@ -84,61 +84,119 @@ My solutions of the Python Programming Exercises for noobs will be here soon.
 040 - Find the largest number in an array, and print its position
 
 041 - ASCII analogue clock
+
 042 - Dijkstra's algorithm
+
 043 - Text to morse translator. Bonus points for generating the sound
+
 044 - Noughts and Crosses / Tic Tac Toe / X and O
+
 045 - Snake game
+
 046 - FTP Client (TCP or UDP with ACK)
+
 047 - Telnet server
+
 048 - IMP Interpreter
+
 049 - Tetris
+
 050 - Conway's Game of Life
+
 051 - Web Crawler
+
 052 - Text Editor
+
 053 - RSS feed creator
+
 054 - Evaluate binomial coefficients
+
 055 - Reverse Polish Notation (RPN) calculator
+
 056 - Output the Mandlebrot Set in ASCII
+
 057 - Sorting algorithm
+
 058 - Convert Markup to HTML
+
 059 - The N Queens Problem
+
 060 - Details Validator using Regular Expressions. Validate phone numbers, emails
+
 061 - Linked list
+
 062 - Mastermind
+
 063 - Random image generator
+
 064 - Last.FM Scrobbler
+
 065 - Klingon Translator
+
 066 - Prime number generator using a Sieve
+
 067 - Markov chain
+
 068 - Graphical digital clock (GUI)
+
 069 - Oil spill game
+
 070 - Algorithm to calculate triangle numbers
+
 071 - Calculate a user's typing speed
+
 072 - Name art in ASCII
+
 073 - Towers of Hanoi
+
 074 - Quine
+
 075 - IRC Bot
+
 076 - Brainfuck Interpreter
+
 077 - Sorting algorithm audibilization (warning, noises) and/or visualization
+
 078 - Chip-8 emulator
+
 079 - Geekcode generator (3.12)
+
 080 - Define, translate, and rotate a shape with an arbitrary amont of vertices
+
 081 - Pong with variable vectors
+
 082 - Battleships with an artificial intelligence (NPC) opponent
+
 083 - Simple roguelike. Mega chapeau for multiplayer over LAN.
+
 084 - TCP chat program with basic encryption (XOR)
+
 085 - Incremental economy simulator (Look up Time of Exploration)
+
 086 - Encryption / Decryption hiding text in an image
+
 087 - Calculate Pascal's triangle
+
 088 - Sine wave generator from pseudorandom numbers
+
 089 - Pacman clone with ghost AI
+
 090 - Flappy Birds clone
+
 091 - Fast Fourier Transformation
+
 092 - Graphical digital clock (GUI) (Yes, the image has this twice)
+
 093 - Binary search
+
 094 - Nintendo Oil Panic
+
 095 - Generate the Sierpinski Triangle
+
 096 - Calculate the Dot and Cross of two vectors
+
 097 - Little Man computer simulator
+
 098 - Basic LISP interpreter
+
 099 - Hailstone sequence
