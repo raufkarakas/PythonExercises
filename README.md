@@ -2,46 +2,87 @@
 My solutions of the Python Programming Exercises for noobs will be here soon.
 
 000 - Name Generator
+
 001 - Higher or Lower / Heads or Tails
+
 002 - Temperature converter
+
 003 - Calculate your age in seconds
+
 004 - Simple encryption / decryption
+
 005 - FizzBuzz
+
 006 - Rock Paper Scissors and/or Rock Paper Scissors Lizard Spock
+
 007 - Hangman
+
 008 - Love calculator
+
 009 - Pseudorandom quote generator
+
 010 - Password generator
+
 011 - Anatomically correct time from an internet clock
+
 012 - Haiku generator
+
 013 - Magic eight ball
+
 014 - Collatz Conjecture
+
 015 - Reverse a string
+
 016 - Count the vowels in a string
+
 017 - Count the words in a string
+
 018 - Minesweeper
+
 019 - Connect Four
+
 020 - BMI Calculator
+
 021 - 4chan Thread Downloader (images)
+
 022 - Sudoku generator / solver
+
 023 - Maze game and solution algorithm
+
 024 - Decimal to binary
+
 025 - Picross solver
+
 026 - Eulerian path
+
 027 - Fibonacci sequence algorithm
+
 028 - Calcuate and print the factorial of 100
+
 029 - Encryption connection. Implement all of the tools in the Rumkin collection: http://rumkin.com/tools/cipher
+
 030 - Blackjack
+
 031 - Text adventure game
+
 032 - Generate an ASCII image of a Christmas tree to a user given height
+
 033 - Area calculator
+
 034 - Benford's law
+
 035 - Hunt the Wumpus
+
 036 - Static website generator
+
 037 - Crossword game
+
 038 - NTP Server
+
 039 - Stronger password generator (With less chance of predicting an outcome)
+
 040 - Find the largest number in an array, and print its position
+
 041 - ASCII analogue clock
 042 - Dijkstra's algorithm
 043 - Text to morse translator. Bonus points for generating the sound
