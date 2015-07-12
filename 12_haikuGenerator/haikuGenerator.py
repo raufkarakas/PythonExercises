@@ -4,7 +4,7 @@ from random import choice
 
 def haikuGenerator():
     haikuLine = []
-    lines = open("mhyph.txt").readlines()
+    lines = open("mhyph").readlines()
     remainingSyllabus = [5, 7, 5]
     for value in remainingSyllabus:
         tempLine = ""
